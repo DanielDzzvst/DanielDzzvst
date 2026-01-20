@@ -15,7 +15,7 @@ Full-stack apps | MongoDB | Express | React | Node.js | JS | Git
 ## Focus
 - Cleaner React  
 - Better backend structure  
-- Real projects over tutorials
+- Real projects
 
 ---
 
