@@ -1,35 +1,30 @@
-# 👋 Hey, I’m Daniel  
-22 y/o | MERN Stack Developer
+# 👋 Hi, I’m Daniel  
+22 y/o | MERN Stack Dev
 
-I build full-stack apps, break things, fix them, and refactor until they make sense. I like understanding how stuff really works instead of just shipping it.
+Full-stack apps | MongoDB | Express | React | Node.js | JS | Git
 
 ---
 
 ## What I do
-- Build full-stack apps with **MongoDB, Express, React, Node.js**  
-- Design APIs and backend logic  
-- Clean up messy code at 2 a.m.  
+- Build apps from scratch  
+- Design APIs & backend logic  
+- Refactor messy code
 
 ---
 
-## Tech
-React | Node.js | Express | MongoDB | JavaScript | Git
+## Focus
+- Cleaner React  
+- Better backend structure  
+- Real projects over tutorials
 
 ---
 
-## Right now
-- Improving backend architecture  
-- Writing cleaner React code  
-- Building projects that feel real  
-
----
-
-## Coding philosophy
-Simple and working > complicated and flashy.  
+## Philosophy
+Simple & working > flashy & complicated  
 
 ---
 
 ## Fun fact
-- I overthink everything (who invented it, who did it first…)  
-- I stay calm under pressure  
-- People say I’m **friendly and approachable**
+- I overthink everything  
+- Calm under pressure  
+- People say I’m friendly & approachable
