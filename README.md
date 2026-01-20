@@ -1,16 +1,29 @@
-## Hi there 👋
+👋 Hey, I’m Daniel
+22 y/o, mostly working with the MERN stack.
 
-<!--
-**DanielDzzvst/DanielDzzvst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build full-stack stuff, break it, fix it, then refactor it. I’m more into understanding how things actually work than just shipping something fast.
 
-Here are some ideas to get you started:
+What I usually do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full-stack apps with MongoDB, Express, React, Node.js
+
+APIs, databases, logic that lives on the backend
+
+Cleaning up code that made sense at 2 a.m. but not the next day
+
+Tech I touch the most
+React, Node.js, Express, MongoDB, JavaScript, Git
+
+Right now
+Trying to get better at backend structure, write less messy React, and build projects that feel real.
+
+How I think about coding
+If it’s simple and works, that’s good code.
+If it’s complicated just to look smart, it’s probably bad code. 😆
+
+Fun fact
+I try to be professional with anything i do
+I have a tendency to overthink everything (who did it started, who invented it, and so on)
+I am calm individual.
+I try to be as precise as it is possible.
+People around me say I’m friendly and approachable
